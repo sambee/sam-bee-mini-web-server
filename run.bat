@@ -1,1 +1,1 @@
-java -jar SimpleWebServer.jar
+java -jar SimpleWebServerFull.jar
