@@ -1,4 +1,4 @@
 sam-bee-mini-web-server
 =======================
 
-min web server
+mini web server
